@@ -3,7 +3,7 @@
   "features": [{
       "type": "Feature",
       "properties": {
-        "name": "Ormoc City, Philippines"
+        "Place": "Ormoc City, Philippines"
       },
       "geometry": {
         "type": "Point",
