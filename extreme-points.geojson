@@ -1,21 +1,4 @@
-{
-  "type": "FeatureCollection",
-  "features": [{
-      "type": "Feature",
-      "properties": {
-        "name": "Ormoc City, Philippines",
-        "source": "Wikipedia Ormoc article",
-        "sourceUrl": "https://en.wikipedia.org/wiki/Ormoc",
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.027508,
-          124.604596
-        ]
-      }
-    },
-     {
+    {
       "type": "Feature",
       "properties": {
         "name": "La Rinconada",
