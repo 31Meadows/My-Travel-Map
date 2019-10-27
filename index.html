@@ -127,29 +127,6 @@
 
       view.graphics.add(oceanSurface);
 
-      const cloudsSphere = Mesh.createSphere(new Point({
-        x: 0, y: -90, z: -(2 * R + offset)
-      }), {
-        size: 2 * (R + offset),
-        material: {
-          colorTexture: './clouds-nasa.png',
-          doubleSided: false
-        },
-        densificationFactor: 4
-      });
-
-      cloudsSphere.components[0].shading = "flat";
-
-      const clouds = new Graphic({
-        geometry: cloudsSphere,
-        symbol: {
-          type: "mesh-3d",
-          symbolLayers: [{ type: "fill" }]
-        }
-      });
-
-      view.graphics.add(clouds);
-
       const extremesLayer = new GeoJSONLayer({
         url: "extreme-points.geojson",
         elevationInfo: {
