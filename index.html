@@ -109,23 +109,7 @@
         x: 0, y: -90, z: -(2 * R)
       });
 
-      const oceanSurface = new Graphic({
-        geometry: origin,
-        symbol: {
-          type: "point-3d",
-          symbolLayers: [
-            {
-              type: "object",
-              resource: {
-                href: "./sphere/scene.gltf"
-              },
-              width: 2 * R
-            }
-          ]
-        }
-      });
 
-      view.graphics.add(oceanSurface);
 
       const extremesLayer = new GeoJSONLayer({
         url: "extreme-points.geojson",
