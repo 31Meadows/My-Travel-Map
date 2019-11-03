@@ -11,7 +11,7 @@ body,
 }
 
 body {
-  background: radial-gradient(#12bff2, #0269a1);
+  background: radial-gradient(#ccc7d1, #cca1f7);
 }
 
 #viewDiv canvas {
