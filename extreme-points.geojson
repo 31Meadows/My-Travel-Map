@@ -24,6 +24,30 @@
         ]
       }
     },
+      {
+      "type": "Feature",
+      "properties": {
+        "name": "Houston, Texas",
+        "type": "",
+        "location": "",
+        "facts": "",
+        "imageCaption": "",
+        "imageUrl": "",
+        "imageCopyright": "",
+        "imageCopyrightUrl": "",
+        "source": "",
+        "sourceUrl": "",
+        "sourceCopyright": "",
+        "sourceCopyrightUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.373577,
+          29.760413
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
