@@ -24,6 +24,126 @@
         ]
       }
     },
+                 {
+      "type": "Feature",
+      "properties": {
+        "name": "Angeles City, Philippines",
+        "type": "",
+        "location": "",
+        "facts": "",
+        "imageCaption": "",
+        "imageUrl": "",
+        "imageCopyright": "",
+        "imageCopyrightUrl": "",
+        "source": "",
+        "sourceUrl": "",
+        "sourceCopyright": "",
+        "sourceCopyrightUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.587604,
+          15.145376
+        ]
+      }
+    },
+                 {
+      "type": "Feature",
+      "properties": {
+        "name": "Manila, Philippines",
+        "type": "",
+        "location": "",
+        "facts": "",
+        "imageCaption": "",
+        "imageUrl": "",
+        "imageCopyright": "",
+        "imageCopyrightUrl": "",
+        "source": "",
+        "sourceUrl": "",
+        "sourceCopyright": "",
+        "sourceCopyrightUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.983351,
+          14.598685
+        ]
+      }
+    },
+                 {
+      "type": "Feature",
+      "properties": {
+        "name": "Cebu, Philippines",
+        "type": "",
+        "location": "",
+        "facts": "",
+        "imageCaption": "",
+        "imageUrl": "",
+        "imageCopyright": "",
+        "imageCopyrightUrl": "",
+        "source": "",
+        "sourceUrl": "",
+        "sourceCopyright": "",
+        "sourceCopyrightUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.895323,
+          10.346905
+        ]
+      }
+    },
+                 {
+      "type": "Feature",
+      "properties": {
+        "name": "Bohol, Philippines",
+        "type": "",
+        "location": "",
+        "facts": "",
+        "imageCaption": "",
+        "imageUrl": "",
+        "imageCopyright": "",
+        "imageCopyrightUrl": "",
+        "source": "",
+        "sourceUrl": "",
+        "sourceCopyright": "",
+        "sourceCopyrightUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.230403,
+          9.885851
+        ]
+      }
+    },
+                 {
+      "type": "Feature",
+      "properties": {
+        "name": "Boracay, Philippines",
+        "type": "",
+        "location": "",
+        "facts": "",
+        "imageCaption": "",
+        "imageUrl": "",
+        "imageCopyright": "",
+        "imageCopyrightUrl": "",
+        "source": "",
+        "sourceUrl": "",
+        "sourceCopyright": "",
+        "sourceCopyrightUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.927036,
+          11.966666
+        ]
+      }
+    },
                {
       "type": "Feature",
       "properties": {
