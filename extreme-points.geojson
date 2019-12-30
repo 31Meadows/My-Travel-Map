@@ -24,6 +24,30 @@
         ]
       }
     },
+               {
+      "type": "Feature",
+      "properties": {
+        "name": "Ramstein-Miesenbach, Germany",
+        "type": "",
+        "location": "",
+        "facts": "",
+        "imageCaption": "",
+        "imageUrl": "",
+        "imageCopyright": "",
+        "imageCopyrightUrl": "",
+        "source": "",
+        "sourceUrl": "",
+        "sourceCopyright": "",
+        "sourceCopyrightUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.604489,
+          49.436970
+        ]
+      }
+    },
       {
       "type": "Feature",
       "properties": {
