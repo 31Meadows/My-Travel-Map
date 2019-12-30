@@ -168,7 +168,7 @@
         ]
       }
     },
-                         {
+                        {
       "type": "Feature",
       "properties": {
         "name": "Geneva, Switzerland",
@@ -189,6 +189,78 @@
         "coordinates": [
           6.146148,
           46.205503
+        ]
+      }
+    },
+                                 {
+      "type": "Feature",
+      "properties": {
+        "name": "Vienna, Austria",
+        "type": "",
+        "location": "",
+        "facts": "",
+        "imageCaption": "",
+        "imageUrl": "",
+        "imageCopyright": "",
+        "imageCopyrightUrl": "",
+        "source": "",
+        "sourceUrl": "",
+        "sourceCopyright": "",
+        "sourceCopyrightUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.377872,
+          48.212344
+        ]
+      }
+    },
+                                 {
+      "type": "Feature",
+      "properties": {
+        "name": "Budapest, Hungary",
+        "type": "",
+        "location": "",
+        "facts": "",
+        "imageCaption": "",
+        "imageUrl": "",
+        "imageCopyright": "",
+        "imageCopyrightUrl": "",
+        "source": "",
+        "sourceUrl": "",
+        "sourceCopyright": "",
+        "sourceCopyrightUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.040045,
+          47.507061
+        ]
+      }
+    },
+                                 {
+      "type": "Feature",
+      "properties": {
+        "name": "Prague, Czechia",
+        "type": "",
+        "location": "",
+        "facts": "",
+        "imageCaption": "",
+        "imageUrl": "",
+        "imageCopyright": "",
+        "imageCopyrightUrl": "",
+        "source": "",
+        "sourceUrl": "",
+        "sourceCopyright": "",
+        "sourceCopyrightUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.455347,
+          50.093415
         ]
       }
     },
