@@ -48,6 +48,150 @@
         ]
       }
     },
+                         {
+      "type": "Feature",
+      "properties": {
+        "name": "Brussels, Belgium",
+        "type": "",
+        "location": "",
+        "facts": "",
+        "imageCaption": "",
+        "imageUrl": "",
+        "imageCopyright": "",
+        "imageCopyrightUrl": "",
+        "source": "",
+        "sourceUrl": "",
+        "sourceCopyright": "",
+        "sourceCopyrightUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.355819,
+          50.847368
+        ]
+      }
+    },
+                         {
+      "type": "Feature",
+      "properties": {
+        "name": "Luxembourg",
+        "type": "",
+        "location": "",
+        "facts": "",
+        "imageCaption": "",
+        "imageUrl": "",
+        "imageCopyright": "",
+        "imageCopyrightUrl": "",
+        "source": "",
+        "sourceUrl": "",
+        "sourceCopyright": "",
+        "sourceCopyrightUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.126906,
+          49.602789
+        ]
+      }
+    },
+                         {
+      "type": "Feature",
+      "properties": {
+        "name": "Amsterdam, Netherlands",
+        "type": "",
+        "location": "",
+        "facts": "",
+        "imageCaption": "",
+        "imageUrl": "",
+        "imageCopyright": "",
+        "imageCopyrightUrl": "",
+        "source": "",
+        "sourceUrl": "",
+        "sourceCopyright": "",
+        "sourceCopyrightUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.895606,
+          52.339417
+        ]
+      }
+    },
+                         {
+      "type": "Feature",
+      "properties": {
+        "name": "Paris, France",
+        "type": "",
+        "location": "",
+        "facts": "",
+        "imageCaption": "",
+        "imageUrl": "",
+        "imageCopyright": "",
+        "imageCopyrightUrl": "",
+        "source": "",
+        "sourceUrl": "",
+        "sourceCopyright": "",
+        "sourceCopyrightUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.334015,
+          48.835168
+        ]
+      }
+    },
+                         {
+      "type": "Feature",
+      "properties": {
+        "name": "Barcelona, Spain",
+        "type": "",
+        "location": "",
+        "facts": "",
+        "imageCaption": "",
+        "imageUrl": "",
+        "imageCopyright": "",
+        "imageCopyrightUrl": "",
+        "source": "",
+        "sourceUrl": "",
+        "sourceCopyright": "",
+        "sourceCopyrightUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.187334,
+          41.389205
+        ]
+      }
+    },
+                         {
+      "type": "Feature",
+      "properties": {
+        "name": "Geneva, Switzerland",
+        "type": "",
+        "location": "",
+        "facts": "",
+        "imageCaption": "",
+        "imageUrl": "",
+        "imageCopyright": "",
+        "imageCopyrightUrl": "",
+        "source": "",
+        "sourceUrl": "",
+        "sourceCopyright": "",
+        "sourceCopyrightUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.146148,
+          46.205503
+        ]
+      }
+    },
       {
       "type": "Feature",
       "properties": {
