@@ -51,6 +51,78 @@
                          {
       "type": "Feature",
       "properties": {
+        "name": "Berlin, Germany",
+        "type": "",
+        "location": "",
+        "facts": "",
+        "imageCaption": "",
+        "imageUrl": "",
+        "imageCopyright": "",
+        "imageCopyrightUrl": "",
+        "source": "",
+        "sourceUrl": "",
+        "sourceCopyright": "",
+        "sourceCopyrightUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.369952,
+          52.575544
+        ]
+      }
+    },
+                         {
+      "type": "Feature",
+      "properties": {
+        "name": "Munich, Germany",
+        "type": "",
+        "location": "",
+        "facts": "",
+        "imageCaption": "",
+        "imageUrl": "",
+        "imageCopyright": "",
+        "imageCopyrightUrl": "",
+        "source": "",
+        "sourceUrl": "",
+        "sourceCopyright": "",
+        "sourceCopyrightUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.584063,
+          48.134272
+        ]
+      }
+    },
+                         {
+      "type": "Feature",
+      "properties": {
+        "name": "Frankfurt, Germany",
+        "type": "",
+        "location": "",
+        "facts": "",
+        "imageCaption": "",
+        "imageUrl": "",
+        "imageCopyright": "",
+        "imageCopyrightUrl": "",
+        "source": "",
+        "sourceUrl": "",
+        "sourceCopyright": "",
+        "sourceCopyrightUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.710372,
+          50.147789
+        ]
+      }
+    },
+                         {
+      "type": "Feature",
+      "properties": {
         "name": "Brussels, Belgium",
         "type": "",
         "location": "",
