@@ -168,7 +168,7 @@
         ]
       }
     },
-                         {
+                       {
       "type": "Feature",
       "properties": {
         "name": "Berlin, Germany",
@@ -192,7 +192,7 @@
         ]
       }
     },
-                         {
+                       {
       "type": "Feature",
       "properties": {
         "name": "Munich, Germany",
@@ -216,7 +216,7 @@
         ]
       }
     },
-                         {
+                       {
       "type": "Feature",
       "properties": {
         "name": "Frankfurt, Germany",
@@ -240,7 +240,7 @@
         ]
       }
     },
-                         {
+                       {
       "type": "Feature",
       "properties": {
         "name": "Brussels, Belgium",
@@ -264,7 +264,7 @@
         ]
       }
     },
-                         {
+                       {
       "type": "Feature",
       "properties": {
         "name": "Luxembourg",
@@ -336,7 +336,7 @@
         ]
       }
     },
-                         {
+                       {
       "type": "Feature",
       "properties": {
         "name": "Barcelona, Spain",
@@ -384,7 +384,7 @@
         ]
       }
     },
-                                 {
+                       {
       "type": "Feature",
       "properties": {
         "name": "Vienna, Austria",
@@ -408,7 +408,7 @@
         ]
       }
     },
-                                 {
+                       {
       "type": "Feature",
       "properties": {
         "name": "Budapest, Hungary",
@@ -432,7 +432,7 @@
         ]
       }
     },
-                                 {
+                      {
       "type": "Feature",
       "properties": {
         "name": "Prague, Czechia",
@@ -456,7 +456,7 @@
         ]
       }
     },
-                                           {
+                       {
       "type": "Feature",
       "properties": {
         "name": "Doha, Qatar",
@@ -480,7 +480,7 @@
         ]
       }
     },
-                                           {
+                       {
       "type": "Feature",
       "properties": {
         "name": "Bangkok, Thailand",
@@ -504,7 +504,7 @@
         ]
       }
     },
-                                           {
+                       {
       "type": "Feature",
       "properties": {
         "name": "Macau",
@@ -528,7 +528,7 @@
         ]
       }
     },
-                                           {
+                       {
       "type": "Feature",
       "properties": {
         "name": "Hong Kong",
@@ -552,7 +552,7 @@
         ]
       }
     },
-                                           {
+                      {
       "type": "Feature",
       "properties": {
         "name": "Seoul, South Korea",
@@ -576,7 +576,7 @@
         ]
       }
     },
-                                           {
+                       {
       "type": "Feature",
       "properties": {
         "name": "Busan, South Korea",
@@ -597,6 +597,126 @@
         "coordinates": [
           129.052340,
           35.168228
+        ]
+      }
+    },
+                       {
+      "type": "Feature",
+      "properties": {
+        "name": "Roatan, Honduras",
+        "type": "",
+        "location": "",
+        "facts": "",
+        "imageCaption": "",
+        "imageUrl": "",
+        "imageCopyright": "",
+        "imageCopyrightUrl": "",
+        "source": "",
+        "sourceUrl": "",
+        "sourceCopyright": "",
+        "sourceCopyrightUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.527193,
+          16.330147
+        ]
+      }
+    },
+                      {
+      "type": "Feature",
+      "properties": {
+        "name": "Belize",
+        "type": "",
+        "location": "",
+        "facts": "",
+        "imageCaption": "",
+        "imageUrl": "",
+        "imageCopyright": "",
+        "imageCopyrightUrl": "",
+        "source": "",
+        "sourceUrl": "",
+        "sourceCopyright": "",
+        "sourceCopyrightUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.196470,
+          17.504254
+        ]
+      }
+    },
+                       {
+      "type": "Feature",
+      "properties": {
+        "name": "Cayman Islands",
+        "type": "",
+        "location": "",
+        "facts": "",
+        "imageCaption": "",
+        "imageUrl": "",
+        "imageCopyright": "",
+        "imageCopyrightUrl": "",
+        "source": "",
+        "sourceUrl": "",
+        "sourceCopyright": "",
+        "sourceCopyrightUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.241797,
+          19.325561
+        ]
+      }
+    },
+                       {
+      "type": "Feature",
+      "properties": {
+        "name": "Cozumel, Mexico",
+        "type": "",
+        "location": "",
+        "facts": "",
+        "imageCaption": "",
+        "imageUrl": "",
+        "imageCopyright": "",
+        "imageCopyrightUrl": "",
+        "source": "",
+        "sourceUrl": "",
+        "sourceCopyright": "",
+        "sourceCopyrightUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.930305,
+          20.421361
+        ]
+      }
+    },
+                       {
+      "type": "Feature",
+      "properties": {
+        "name": "Cancun, Mexico",
+        "type": "",
+        "location": "",
+        "facts": "",
+        "imageCaption": "",
+        "imageUrl": "",
+        "imageCopyright": "",
+        "imageCopyrightUrl": "",
+        "source": "",
+        "sourceUrl": "",
+        "sourceCopyright": "",
+        "sourceCopyrightUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.832580,
+          21.163763
         ]
       }
     },
