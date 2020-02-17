@@ -603,6 +603,150 @@
                        {
       "type": "Feature",
       "properties": {
+        "name": "Tokyo, Japan",
+        "type": "",
+        "location": "",
+        "facts": "",
+        "imageCaption": "",
+        "imageUrl": "",
+        "imageCopyright": "",
+        "imageCopyrightUrl": "",
+        "source": "",
+        "sourceUrl": "",
+        "sourceCopyright": "",
+        "sourceCopyrightUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.768331,
+          35.680390
+        ]
+      }
+    },
+                       {
+      "type": "Feature",
+      "properties": {
+        "name": "Kawaguchiko/Mount Fuji, Japan",
+        "type": "",
+        "location": "",
+        "facts": "",
+        "imageCaption": "",
+        "imageUrl": "",
+        "imageCopyright": "",
+        "imageCopyrightUrl": "",
+        "source": "",
+        "sourceUrl": "",
+        "sourceCopyright": "",
+        "sourceCopyrightUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.771159,
+          35.499161
+        ]
+      }
+    },
+                       {
+      "type": "Feature",
+      "properties": {
+        "name": "Osaka, Japan",
+        "type": "",
+        "location": "",
+        "facts": "",
+        "imageCaption": "",
+        "imageUrl": "",
+        "imageCopyright": "",
+        "imageCopyrightUrl": "",
+        "source": "",
+        "sourceUrl": "",
+        "sourceCopyright": "",
+        "sourceCopyrightUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.502533,
+          34.671071
+        ]
+      }
+    },
+                       {
+      "type": "Feature",
+      "properties": {
+        "name": "Kyoto, Japan",
+        "type": "",
+        "location": "",
+        "facts": "",
+        "imageCaption": "",
+        "imageUrl": "",
+        "imageCopyright": "",
+        "imageCopyrightUrl": "",
+        "source": "",
+        "sourceUrl": "",
+        "sourceCopyright": "",
+        "sourceCopyrightUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.762012,
+          35.019753
+        ]
+      }
+    },
+                       {
+      "type": "Feature",
+      "properties": {
+        "name": "Nara, Japan",
+        "type": "",
+        "location": "",
+        "facts": "",
+        "imageCaption": "",
+        "imageUrl": "",
+        "imageCopyright": "",
+        "imageCopyrightUrl": "",
+        "source": "",
+        "sourceUrl": "",
+        "sourceCopyright": "",
+        "sourceCopyrightUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.892449,
+          34.675421
+        ]
+      }
+    },
+                       {
+      "type": "Feature",
+      "properties": {
+        "name": "Hiroshima, Japan",
+        "type": "",
+        "location": "",
+        "facts": "",
+        "imageCaption": "",
+        "imageUrl": "",
+        "imageCopyright": "",
+        "imageCopyrightUrl": "",
+        "source": "",
+        "sourceUrl": "",
+        "sourceCopyright": "",
+        "sourceCopyrightUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.449274,
+          34.399097
+        ]
+      }
+    },
+                       {
+      "type": "Feature",
+      "properties": {
         "name": "Roatan, Honduras",
         "type": "",
         "location": "",
