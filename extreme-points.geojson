@@ -1347,7 +1347,7 @@
                         {
       "type": "Feature",
       "properties": {
-        "name": "UPDATE",
+        "name": "Niagara Falls, Canada",
         "type": "",
         "location": "",
         "facts": "",
@@ -1363,8 +1363,224 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -95.373577,
-          29.760413
+          -79.119038,
+          43.090296
+        ]
+      }
+    },
+               {
+      "type": "Feature",
+      "properties": {
+        "name": "Buffalo, NY",
+        "type": "",
+        "location": "",
+        "facts": "",
+        "imageCaption": "",
+        "imageUrl": "",
+        "imageCopyright": "",
+        "imageCopyrightUrl": "",
+        "source": "",
+        "sourceUrl": "",
+        "sourceCopyright": "",
+        "sourceCopyrightUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.880860,
+          42.884638
+        ]
+      }
+    },
+               {
+      "type": "Feature",
+      "properties": {
+        "name": "Rochester, NY",
+        "type": "",
+        "location": "",
+        "facts": "",
+        "imageCaption": "",
+        "imageUrl": "",
+        "imageCopyright": "",
+        "imageCopyrightUrl": "",
+        "source": "",
+        "sourceUrl": "",
+        "sourceCopyright": "",
+        "sourceCopyrightUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.575117,
+          43.173160
+        ]
+      }
+    },
+               {
+      "type": "Feature",
+      "properties": {
+        "name": "Silver Springs, NY",
+        "type": "",
+        "location": "",
+        "facts": "",
+        "imageCaption": "",
+        "imageUrl": "",
+        "imageCopyright": "",
+        "imageCopyrightUrl": "",
+        "source": "",
+        "sourceUrl": "",
+        "sourceCopyright": "",
+        "sourceCopyrightUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.086405,
+          42.660013
+        ]
+      }
+    },
+               {
+      "type": "Feature",
+      "properties": {
+        "name": "Hershey, PA",
+        "type": "",
+        "location": "",
+        "facts": "",
+        "imageCaption": "",
+        "imageUrl": "",
+        "imageCopyright": "",
+        "imageCopyrightUrl": "",
+        "source": "",
+        "sourceUrl": "",
+        "sourceCopyright": "",
+        "sourceCopyrightUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.652284,
+          40.286287
+        ]
+      }
+    },
+               {
+      "type": "Feature",
+      "properties": {
+        "name": "Washington, DC",
+        "type": "",
+        "location": "",
+        "facts": "",
+        "imageCaption": "",
+        "imageUrl": "",
+        "imageCopyright": "",
+        "imageCopyrightUrl": "",
+        "source": "",
+        "sourceUrl": "",
+        "sourceCopyright": "",
+        "sourceCopyrightUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.045295,
+          38.907535
+        ]
+      }
+    },
+               {
+      "type": "Feature",
+      "properties": {
+        "name": "Gettysburg, PA",
+        "type": "",
+        "location": "",
+        "facts": "",
+        "imageCaption": "",
+        "imageUrl": "",
+        "imageCopyright": "",
+        "imageCopyrightUrl": "",
+        "source": "",
+        "sourceUrl": "",
+        "sourceCopyright": "",
+        "sourceCopyrightUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.234679,
+          39.830570
+        ]
+      }
+    },
+               {
+      "type": "Feature",
+      "properties": {
+        "name": "Poquoson, VA",
+        "type": "",
+        "location": "",
+        "facts": "",
+        "imageCaption": "",
+        "imageUrl": "",
+        "imageCopyright": "",
+        "imageCopyrightUrl": "",
+        "source": "",
+        "sourceUrl": "",
+        "sourceCopyright": "",
+        "sourceCopyrightUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.342539,
+          37.123706
+        ]
+      }
+    },
+               {
+      "type": "Feature",
+      "properties": {
+        "name": "Norfolk, VA",
+        "type": "",
+        "location": "",
+        "facts": "",
+        "imageCaption": "",
+        "imageUrl": "",
+        "imageCopyright": "",
+        "imageCopyrightUrl": "",
+        "source": "",
+        "sourceUrl": "",
+        "sourceCopyright": "",
+        "sourceCopyrightUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.273510,
+          36.851932
+        ]
+      }
+    },
+               {
+      "type": "Feature",
+      "properties": {
+        "name": "Virginia Beach, VA",
+        "type": "",
+        "location": "",
+        "facts": "",
+        "imageCaption": "",
+        "imageUrl": "",
+        "imageCopyright": "",
+        "imageCopyrightUrl": "",
+        "source": "",
+        "sourceUrl": "",
+        "sourceCopyright": "",
+        "sourceCopyrightUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.979265,
+          36.852212
         ]
       }
     },
